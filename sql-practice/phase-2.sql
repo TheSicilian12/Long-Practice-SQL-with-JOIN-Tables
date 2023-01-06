@@ -80,5 +80,6 @@ VALUES
   (4, 'Tunnel'),
   (4, 'Flopping Fish'),
   (7, 'Cheetos'),
+  (7, 'Magic'),
   (8, 'Crinkle Ball'),
   (8, 'Yarn');
